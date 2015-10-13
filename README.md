@@ -13,3 +13,7 @@ In this repository, for ARIES-plugin you will find:
 :x: Executable tool (not available)
 
 This repository was constructed by [Rishi Anne](https://github.com/rishielnino) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
+
+## Attribution
+
+Authors of tool: Dr. Gabriele Bavota and Dr.	Andrea De Lucia and Dr.	Andrian Marcus and Dr.	Rocco Oliveto and Dr.	Fabio Palomba.
