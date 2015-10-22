@@ -3,14 +3,14 @@ A plugin  that supports the software engineer in removing the “Blob” antipat
 
 This repository contains information related to the plugin ARIES in eclipse  presented in the International Conference on Software Engineering, 2012.
 
-You can find the paper on the folloing  [link](http://dl.acm.org/citation.cfm?id=2337434).
+You can find the paper on the following  [link](http://dl.acm.org/citation.cfm?id=2337434).
 
 This repository is not the original repository for this tool.
 
 In this repository, for ARIES-plugin you will find:
 
-:x: Source code (not available)
-:x: Executable tool (not available)
+* :x: Source code (not available)
+* :x: Executable tool (not available)
 
 This repository was constructed by [Rishi Anne](https://github.com/rishielnino) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
 
