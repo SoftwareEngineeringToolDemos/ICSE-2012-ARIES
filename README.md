@@ -5,7 +5,10 @@ This repository contains information related to the plugin ARIES in eclipse  pre
 
 You can find the paper on the following  [link](http://dl.acm.org/citation.cfm?id=2337434).
 
-This repository _is not_ the original repository for this tool.
+This repository _is not_ the original repository for this tool.Here are some links to the original project:
+* [The Official Project Page](https://dibt.unimol.it/fpalomba/)
+* [The Official Project Page for the plugin file of aries] (https://dibt.unimol.it/fpalomba/)
+* [A Video of the Tool](https://www.youtube.com/watch?v=csfNhgJlhH8)
 
 In this repository, for ARIES-plugin you will find:
 
