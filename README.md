@@ -5,7 +5,7 @@ This repository contains information related to the plugin ARIES in eclipse  pre
 
 You can find the paper on the following  [link](http://dl.acm.org/citation.cfm?id=2337434).
 
-This repository is not the original repository for this tool.
+This repository _is not_ the original repository for this tool.
 
 In this repository, for ARIES-plugin you will find:
 
