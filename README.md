@@ -7,7 +7,7 @@ You can find the paper on the following  [link](http://dl.acm.org/citation.cfm?i
 
 This repository _is not_ the original repository for this tool.Here are some links to the original project:
 * [The Official Project Page](https://dibt.unimol.it/fpalomba/)
-* [The Official Project Page For The Plugin File Of Aries] (https://dibt.unimol.it/fpalomba/)
+* [The Official Project Page For The Plugin File Of Aries](https://dibt.unimol.it/fpalomba/)
 * [A Video Of The Tool](https://www.youtube.com/watch?v=csfNhgJlhH8)
 
 In this repository, for ARIES-plugin you will find:
